@@ -1,4 +1,4 @@
-import css from "../local-css/contact.module.css";
+import css from "../localcss/contact.module.css";
 import { useState } from 'react';
 const Contact = () => {
   const [name, setName] = useState('');
