@@ -87,19 +87,3 @@ h2{
 h3{
   padding-left: 190px;
 }
-h4{
-  font-size: 70px;
-}
-input{
-  width: 800px;
-  height: 40px;
-  font-size: 20px;
-  font-family: sans-serif;
-  border-radius: 20px;
-}
-.contacts{
-  display: flex;
-  justify-content: center;
-  align-items: center;
- flex-direction: column;
-}

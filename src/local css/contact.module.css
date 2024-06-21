@@ -1,0 +1,65 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+    h4{
+        font-size: 60px;
+        padding-left: 150px;
+        font-family: sans-serif;
+        font-weight: 950;
+        margin-bottom: 0px;
+      }
+      .para{
+        padding-left: 150px;
+        padding-right: 200px;
+      }
+.contactbuttons
+{
+ gap: 50px;
+ display: flex;
+ margin-bottom: 30px;
+}
+.buttons1{
+    width: 224px;
+    height: 44px;
+    border-radius: 5px;
+    background-color:black;
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+    margin-left: 150px;
+}
+.buttons2{
+    width: 224px;
+    height: 44px;
+    border-radius: 5px;
+    background-color:black;
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+}
+.text{
+    width: 440px;
+    height: 50px;
+    margin-left: 150px;
+    font-size: 20px;
+
+}
+.text1{
+    width: 440px;
+    height: 120px;
+    margin-left: 150px;
+    font-size: 25px;
+}
+.text::placeholder{
+    font-size: 20px;
+    color: brown;
+    text-align: center;
+}
+.text1::placeholder{
+    font-size: 20px;
+    color: brown;
+    text-align: center;
+}
+
