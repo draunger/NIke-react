@@ -1,7 +1,7 @@
 import "./App.css";
 import Nav from "./components/Nav.jsx";
 import Content from "./components/Content.jsx";
-import {BrowserRouter as Router,Routes,Route} from "react-router-dom";
+import {HashRouter as Router,Routes,Route} from "react-router-dom";
 import About from "./components/About.jsx";
 import Menu from "./components/Menu.jsx";
 import Contact from "./components/Contact.jsx";
